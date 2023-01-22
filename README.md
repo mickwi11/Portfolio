@@ -9,7 +9,7 @@ bardziej fascynuje mnie zagłębianie wiedzy z Data Science/Analyst, oraz DataBa
 * Python - bilbiotek: Pandas, NumPy, Seaborn, SciPy, Matplotlib, Scikit-Learn
 * PowerBi microsoft
 * narzędzie ETL - SSIS
-* zapytań mSQL
+* mSQL
 
 
   
