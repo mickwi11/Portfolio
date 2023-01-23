@@ -25,6 +25,6 @@ W tej sekcji wymienię kilka projektów nad którymi pracowałem i pracuje w wol
 
 #### Analiza prędkosći internetu platformy - SpeedTest - python jupyter [` `]()
 
-#### Analiza cen burgera BigMac w latach 2000-2022 - python jupyter [`Analiza cen burgera BigMac w latach 2000-202`]()
+#### Analiza cen burgera BigMac w latach 2000-2022 - python jupyter [`Analiza cen burgera BigMac w latach 2000-2022`]()
 
 
