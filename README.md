@@ -1,7 +1,7 @@
 # Kwiatkowski Michał - Portfolio analizy danych  
 
 # Coś o mnie 
-Cześć, to mój skrony github. Na tę chwilę jestem w trakcie kończenia swojej pracy inżynierskiej. 
+Cześć, na tę chwilę jestem w trakcie kończenia swojej pracy inżynierskiej. 
 Studia kończę na [Warszawskiej Wyższej Szkole Informatyki w Warszawie](https://wwsi.edu.pl/) na specjalizacji Data Science, oraz systemów urządzeń mobilnych.
 Bardziej fascynuje mnie zagłębianie wiedzy z Data Science/Analyst, oraz DataBase. Również nie zamykam się na inne języki programowania.
 
