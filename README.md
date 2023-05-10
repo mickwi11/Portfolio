@@ -3,12 +3,12 @@
 # Coś o mnie 
 Cześć, na tę chwilę jestem w trakcie kończenia swojej pracy inżynierskiej. 
 Studia kończę na [Warszawskiej Wyższej Szkole Informatyki w Warszawie](https://wwsi.edu.pl/) na specjalizacji Data Science, oraz systemów urządzeń mobilnych.
-Bardziej fascynuje mnie zagłębianie wiedzy z Data Science/Analyst, oraz DataBase. Również nie zamykam się na inne języki programowania.
+Interesuje mnie zagłębianie wiedzy z Data Science/Analyst, oraz DataBase. Również nie zamykam się na inne języki programowania.
 
 ### Posiadam podstawową wiedzę na temat:
 * Python - bilbiotek: Pandas, NumPy, Seaborn, SciPy, Matplotlib, Scikit-Learn
 * PowerBi Microsoft
-* SQL ms - podstawy
+* SQLms - podstawy
 
 
   
