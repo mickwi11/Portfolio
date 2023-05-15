@@ -3,7 +3,7 @@
 # Coś o mnie 
 ### Witam serdecznie,
 
-Obecnie jestem w trakcie obrony mojej pracy dyplomowej, na Warszawskiej [`Wyższej Szkole Informatyki w Warszawie`](https://wwsi.edu.pl/). Specjalizuję się w obszarach Data Science oraz systemów urządzeń mobilnych.
+Obecnie jestem w trakcie obrony mojej pracy dyplomowej, na [`Warszawskiej Wyższej Szkole Informatyki w Warszawie`](https://wwsi.edu.pl/). Specjalizuję się w obszarach Data Science oraz systemów urządzeń mobilnych.
 Jestem zafascynowany możliwościami zgłębiania wiedzy z zakresu Data Science, analizy danych oraz baz danych. Ponadto, nie zamykam się na inne języki programowania i chętnie rozwijam swoje umiejętności w różnych obszarach.
 
 ### Posiadam solidne podstawy z zakresu wielu narzędzi i technologii, w tym:
