@@ -1,7 +1,7 @@
 # Kwiatkowski Michał - Portfolio analizy danych  
 
 # Coś o mnie 
-###Witam serdecznie,
+### Witam serdecznie,
 
 Obecnie znajduję się w trakcie obrony mojej pracy dyplomowej, będącej zwieńczeniem moich studiów na Warszawskiej Wyższej Szkole Informatyki w Warszawie. Specjalizuję się w obszarach Data Science oraz systemów urządzeń mobilnych.
 Jestem zafascynowany możliwościami zgłębiania wiedzy z zakresu Data Science, analizy danych oraz baz danych. Ponadto, nie zamykam się na inne języki programowania i chętnie rozwijam swoje umiejętności w różnych obszarach.
