@@ -1,7 +1,7 @@
 # Kwiatkowski Michał - Portfolio analizy danych  
 
 # Coś o mnie 
-Witam serdecznie,
+###Witam serdecznie,
 
 Obecnie znajduję się w trakcie obrony mojej pracy dyplomowej, będącej zwieńczeniem moich studiów na Warszawskiej Wyższej Szkole Informatyki w Warszawie. Specjalizuję się w obszarach Data Science oraz systemów urządzeń mobilnych.
 Jestem zafascynowany możliwościami zgłębiania wiedzy z zakresu Data Science, analizy danych oraz baz danych. Ponadto, nie zamykam się na inne języki programowania i chętnie rozwijam swoje umiejętności w różnych obszarach.
@@ -10,7 +10,7 @@ Jestem zafascynowany możliwościami zgłębiania wiedzy z zakresu Data Science,
 * Python, wraz z bibliotekami takimi jak Pandas, NumPy, Seaborn, SciPy, Matplotlib i Scikit-Learn. Wykorzystuję je do analizy danych, wizualizacji oraz budowy modeli predykcyjnych.
 * Power BI od Microsoftu, którym posługuję się do tworzenia interaktywnych i zaawansowanych raportów biznesowych.
 * Znam podstawy języka SQL oraz pracy z bazą danych w środowisku MS SQL Server.
-* 
+
 Moje doświadczenie i umiejętności są ciągle rozwijane, a ja jestem gotów na kolejne wyzwania i kontynuowanie nauki w dziedzinie, która mnie pasjonuje.
 
   
