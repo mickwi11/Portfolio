@@ -20,7 +20,7 @@ Interesuje mnie zagłębianie wiedzy z Data Science/Analyst, oraz DataBase. Rów
 # Projekty porfoliowe
 W tej sekcji wymienię kilka projektów nad którymi pracowałem i pracuje w wolnej chwili. 
 
-#### Analiza gospodarki recyklingu i odpadów - PowerBi [ `Analiza gospodarki recyklingu i odpadów.pbix `](https://github.com/mickwi11/PowerBi---projekt/blob/main/Analiza%20gospodarki%20recyklingu%20i%20odpad%C3%B3w.pbix)
+#### Analiza gospodarki recyklingu i odpadów - PowerBi [ `Analiza gospodarki recyklingu i odpadów.pbix `](https://github.com/mickwi11/Portfolio/blob/main/Projekt_recykling_odpady_komunalne%20%E2%80%94%20kopia.pbix)
 
 #### Analiza prędkosći internetu platformy - SpeedTest - python jupyter [` `]()
 
